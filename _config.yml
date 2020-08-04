@@ -1,0 +1,9 @@
+title: Clase de Introducción a las Bases de Datos
+logo: /images/escudo.jpg
+description: Clase de Introducción a las Bases de Datos en la Universidad Panamericana
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
