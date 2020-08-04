@@ -27,16 +27,17 @@ Los estudiantes serán capaces de crear y modificar una base de datos, así como
 
 ## Horas de clase
 
-- Martes y Jueves 12:00 - 13:30
+- Martes 12:30 - 14:00
+- Jueves 11:30 - 13:00
 
 ## Sitio web
 
-Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dbclase_2019/
+Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dbclase_2020/
 
 
 ## Horas de oficina
 
-Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo una cita al correo electornico lpalafox@up.edu.mx.
+Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo una cita al correo electornico leon.palafox@gmail.com.
 
 # Evaluacion
 
@@ -104,28 +105,16 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 
 # Slides
 
-- [Clase 1 - Introducción](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_1_2019.pdf)
-- [Clase 2 - Modelo Relacional](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_2_2019.pdf)
-- [Clase 3 - Modelos De Bases de Datos](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_3_2019.pdf)
-- [Clase 4 - Normalización](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_4_2019.pdf)
-- [Clase 5 - Ejemplos](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_5_2019.pdf)
-- [Clase 6 - Ejemplos](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_6_2019.pdf)
-- [Clase 7 - Entidad Relación](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_7_2019.pdf)
-- [Clase 8 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_8_2019.pdf)
-- [Clase 9 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_8_2019.pdf)
-- [Clase 10 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_8_2019.pdf)
-- [Clase 11 - Algebra Relacional/SQL](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_8_2019.pdf)
-- [Clase 12 - SQL](https://github.com/leonpalafox/dbclase_2019/blob/master/Slides/Clase_8_2019.pdf)
+- [Clase 1 - Introducción](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_1_2020.pdf)
+
 
 # Sets de Datos
 
-- [Estados](https://raw.githubusercontent.com/leonpalafox/dbclase_2019/master/datasets/estados.csv)
-- [Indicadores (Recortado)](https://raw.githubusercontent.com/leonpalafox/dbclase_2019/master/datasets/indicadores_short.csv)
-- [Equipos](https://raw.githubusercontent.com/leonpalafox/dbclase_2019/master/datasets/euro.sql)
+
 
 # Ejercicios en Python
 
-- [Cuaderno de Colab para conectar una base de datos SQL](https://colab.research.google.com/drive/1YAutFlSlVB1SSjSHua4WPaM4wQQ_tWOs)
+
 
 
 # Tareas
@@ -133,7 +122,6 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 
 # Forma de Evaluación
 
-- [Forma](https://docs.google.com/forms/d/e/1FAIpQLSchyplaxVM8APNVa9uXnj9Q398i3e9E0sXyAxS0402hMGOGZw/viewform?usp=sf_link)
 
 
 
