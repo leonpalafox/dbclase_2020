@@ -107,7 +107,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 
 - [Clase 1 - Introducción](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_1_2020.pdf)
 - [Clase 2 - Base de Datos](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_2_2020.pptx)
-- [Clase 3 - Historia Base de Datos](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_2_2020.pptx)
+- [Clase 3 - Historia Base de Datos](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_3_2020.pptx)
 
 # Sets de Datos
 
