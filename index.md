@@ -110,6 +110,10 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 - [Clase 3 - Historia Base de Datos](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_3_2020.pptx)
 - [Clase 4 - Modelo Relacional](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_4_2020.pptx)
 - [Clase 5 - Diagrama E-R](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_5_2020.pptx)
+- [Clase 6 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_6_2020.pptx)
+- [Clase 7 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_7_2020.pptx)
+- [Clase 8 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_8_2020.pptx)
+- [Clase 9 - Algebra Relacional/Tarea](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_9_2020.pptx)
 
 # Sets de Datos
 
